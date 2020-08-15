@@ -1,3 +1,6 @@
 [submodule "Python-for-ML"]
 	path = Python-for-ML
 	url = https://github.com/Itsbeenalongday/Python-for-ML.git
+[submodule "Prediction-of-Traffic-Accident-Risk"]
+	path = Prediction-of-Traffic-Accident-Risk
+	url = https://github.com/Itsbeenalongday/Prediction-of-Traffic-Accident-Risk.git
