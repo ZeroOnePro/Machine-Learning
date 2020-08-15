@@ -4,3 +4,6 @@
 [submodule "Prediction-of-Traffic-Accident-Risk"]
 	path = Prediction-of-Traffic-Accident-Risk
 	url = https://github.com/Itsbeenalongday/Prediction-of-Traffic-Accident-Risk.git
+[submodule "Opencv"]
+	path = Opencv
+	url = https://github.com/Itsbeenalongday/Opencv.git
