@@ -1,18 +1,21 @@
 # Machine-Learning
 
-machine learning공부 및 프로젝트
+machine learning 공부 및 프로젝트
 
-## List
+## Contents
+
 1. Opencv
+
    - 컴퓨터 비전
    - 간단한 웹캠 얼굴인식 프로그램 튜토리얼
 
 2. Prediction-of-Traffic-Accident
+
    - 기계학습및데이터마이닝 과목 팀 프로젝트
    - 교통사고데이터기반으로 만든 교통사고 피해정도 분류기
-   - knn, decision tree, random forest, bagging, svm, neural network 활용 
+   - knn, decision tree, random forest, bagging, svm, neural network 활용
 
-3. Python-for-ML
+3. Machine Learning and Data Mining
    - 기계학습및데이터마이닝 과목 개인 프로젝트
    - 문제풀이과제
    - Numpy, pandas, Matplotlib 활용 EDA

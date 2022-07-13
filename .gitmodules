@@ -1,9 +1,9 @@
-[submodule "Python-for-ML"]
-	path = Python-for-ML
-	url = https://github.com/Itsbeenalongday/Python-for-ML.git
 [submodule "Prediction-of-Traffic-Accident-Risk"]
 	path = Prediction-of-Traffic-Accident-Risk
 	url = https://github.com/Itsbeenalongday/Prediction-of-Traffic-Accident-Risk.git
 [submodule "Opencv"]
 	path = Opencv
 	url = https://github.com/Itsbeenalongday/Opencv.git
+[submodule "Machine-Learning-and-Data-Mining"]
+	path = Machine-Learning-and-Data-Mining
+	url = git@github.com:ZeroOnePro/Machine-Learning-and-Data-Mining.git
